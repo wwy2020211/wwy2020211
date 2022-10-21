@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 </div>
 - 🔭 I’m currently working on AI control system
-- 
+</div>
 - 🌱 I’m currently learning control algorithm and multimodal information process,in my spare time,I learn physics and computer structure myself.
-- 
+</div>
 - 👯 I’m looking to collaborate on HPC and IC/electronic circuit design.
-
+</div>
 - 💬 Ask me about everything you want.
-- 
+</div> 
 - 📫 How to reach me: my email wangweiya0805@163.com
-- 
+</div> 
 - 😄 Pronouns: Do better than yourself yesterday.
-- 
+</div>
 - ⚡ Fun fact: Classic music,physics,drawing,building,swimming and other sports.
 </div>
 
