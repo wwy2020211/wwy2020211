@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</n>
+
 - 🔭 I’m currently working on AI control system
-</n>
+
 - 🌱 I’m currently learning control algorithm and multimodal information process,in my spare time,I learn physics and computer structure myself.
-</n>
+
 - 👯 I’m looking to collaborate on HPC and IC/electronic circuit design.
-</n>
+
 - 💬 Ask me about everything you want.
-</n> 
+
 - 📫 How to reach me: my email wangweiya0805@163.com
-</n> 
+
 - 😄 Pronouns: Do better than yourself yesterday.
 
 - ⚡ Fun fact: Classic music,physics,drawing,building,swimming and other sports.
