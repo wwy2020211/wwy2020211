@@ -14,21 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+</n>
 - 🔭 I’m currently working on AI control system
-</div>
+</n>
 - 🌱 I’m currently learning control algorithm and multimodal information process,in my spare time,I learn physics and computer structure myself.
-</div>
+</n>
 - 👯 I’m looking to collaborate on HPC and IC/electronic circuit design.
-</div>
+</n>
 - 💬 Ask me about everything you want.
-</div> 
+</n> 
 - 📫 How to reach me: my email wangweiya0805@163.com
-</div> 
+</n> 
 - 😄 Pronouns: Do better than yourself yesterday.
-</div>
+
 - ⚡ Fun fact: Classic music,physics,drawing,building,swimming and other sports.
-</div>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/wwy2020211/count.svg)
 
