@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about everything you want.
 
-- 📫 How to reach me: my email wangweiya0805@163.com
+- 📫 How to reach me: my email wangweiya47@163.com
 
 - 😄 Pronouns: Do better than yourself yesterday.
 
