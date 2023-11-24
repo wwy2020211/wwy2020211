@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on AI control system
+- 🔭 I’m currently working on Memory system for IC
 
 - 🌱 I’m currently learning control algorithm and multimodal information process,in my spare time,I learn physics and computer structure myself.
 
