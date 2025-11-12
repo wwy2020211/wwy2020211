@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on In Memory Computing
+- 🔭 I’m currently working on First Principle calculation with AI for Semi-conductor device
 
 - 🌱 I’m currently learning control algorithm and multimodal information process,in my spare time,I learn physics and computer structure myself.
 
-- 👯 I’m looking to collaborate on HPC and IC/electronic circuit design.
+- 👯 I’m looking to collaborate on condensed matter Physics and IC/electronic device design.
 
 - 💬 Ask me about everything you want.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: Do better than yourself yesterday.
 
-- ⚡ Fun fact: Classic music,physics,drawing,building,swimming and other sports.
+- ⚡ Fun fact: Classic music,physics,knitting,building,cooking,swimming and other sports(Climbing/Hiking).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/wwy2020211/count.svg)
